@@ -64,6 +64,7 @@ pip install PyQt5 opencv-python pyzbar gspread oauth2client numpy
    📥📂🚀
 2. Ensure all dependencies are installed as per the requirements mentioned above.
 3. Place your `club_logo.png` and `credentials.json` files in the project directory.
+   <img src="Images/homepage.jpg" alt="Home Page" width="400" />
 4. Launch the application using:
    ```bash
    python Scanner_GUI.py
