@@ -1,0 +1,1 @@
+# foss-attendance-scanner
