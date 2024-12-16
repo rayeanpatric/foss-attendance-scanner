@@ -64,7 +64,7 @@ pip install PyQt5 opencv-python pyzbar gspread oauth2client numpy
    📥📂🚀
 2. Ensure all dependencies are installed as per the requirements mentioned above.
 3. Place your `club_logo.png` and `credentials.json` files in the project directory.
-   <img src="https://github.com/rayeanpatric/foss-attendance-scanner/blob/master/Images/homepage.png" alt="Home Page" width="400" />
+   <img src="https://github.com/rayeanpatric/foss-attendance-scanner/blob/master/Images/homepage.png" alt="Home Page" width="500" />
 4. Launch the application using:
    ```bash
    python Scanner_GUI.py
