@@ -64,6 +64,7 @@ pip install PyQt5 opencv-python pyzbar gspread oauth2client numpy
    📥📂🚀
 2. Ensure all dependencies are installed as per the requirements mentioned above.
 3. Place your `club_logo.png` and `credentials.json` files in the project directory.
+   
    <img src="https://github.com/rayeanpatric/foss-attendance-scanner/blob/master/Images/homepage.png" alt="Home Page" width="500" />
 4. Launch the application using:
    ```bash
@@ -79,11 +80,15 @@ pip install PyQt5 opencv-python pyzbar gspread oauth2client numpy
    - The application opens with a visually appealing splash screen displaying your club's logo. 🎨👋💻
 2. **Enter Google Sheets Link:**
    - Input the URL of the Google Sheet where attendance data will be stored. 🖋️📊📌
+  
+     <img src="https://github.com/rayeanpatric/foss-attendance-scanner/blob/master/Images/sheets-link.png" alt="Home Page" width="500" />
 3. **QR Code Scanning:**
    - Point the device camera at a participant's QR code. 🎥📷✅
    - The application detects and decodes the QR code in real time, extracting participant details.
 4. **Data Capture:**
    - Validated data from the QR code is appended to the linked Google Sheet and displayed in the GUI for verification. 📜📥📄
+  
+     <img src="https://github.com/rayeanpatric/foss-attendance-scanner/blob/master/Images/Registration.png" alt="Home Page" width="500" />
 5. **Exit:**
    - Closing the application releases all resources, including the camera, ensuring a clean exit. 🚪📸✔️
 
