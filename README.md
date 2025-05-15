@@ -2,7 +2,7 @@
 
 ## Overview
 
-The FOSS Attendance System is a Python-based desktop application designed to streamline attendance management for events. Built using PyQt5 for the GUI and integrated with Google Sheets for data storage, this application allows participants to register and generate QR codes beforehand. Volunteers can scan these QR codes during the event, and attendance is automatically recorded in a linked Google Sheet. This not only reduces manual effort but also ensures accuracy and efficiency in managing attendance records. 🎉📋✨
+The FOSS Attendance System is a basic Python-based desktop prototype application designed to streamline attendance management for events. Built using PyQt5 for the GUI and integrated with Google Sheets for data storage, this application allows participants to register and generate QR codes beforehand. Volunteers can scan these QR codes during the event, and attendance is automatically recorded in a linked Google Sheet. This not only reduces manual effort but also ensures accuracy and efficiency in managing attendance records. 🎉📋✨
 
 
 
